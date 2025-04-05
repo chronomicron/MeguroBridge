@@ -21,7 +21,7 @@ It connects to a public Wi-Fi (via the built-in wireless adapter) and rebroadcas
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/MeguroBridge.git
+    git clone https://github.com/chronomicron/MeguroBridge.git
     cd MeguroBridge
     ```
 
