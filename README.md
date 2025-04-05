@@ -27,8 +27,8 @@ It connects to a public Wi-Fi (via the built-in wireless adapter) and rebroadcas
 
 2. Run the setup script:
     ```bash
-    chmod +x setup.sh
-    ./setup.sh
+    chmod +x MeguroBridge.sh
+    ./MeguroBridge.sh
     ```
 
 3. Follow on-screen instructions to connect to a public Wi-Fi and start your private hotspot.
